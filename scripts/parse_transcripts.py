@@ -2,6 +2,9 @@ import re
 import json
 from datasets import load_dataset
 
+# this script extracts all questions and puts them in a json file
+
+
 ds = load_dataset("kunhanw/earning_call_transcript_dataset_with_volatility_analysis",
                   cache_dir="C:/Projects/ToneShift/data/raw")
 def parse_analyst_questions(text, meta):

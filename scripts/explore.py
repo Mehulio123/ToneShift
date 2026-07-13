@@ -1,4 +1,4 @@
-#Python script for parsing the data, and getting just the calls seperately from it!
+#Python script for parsing the data, and finding where teh calls are, and management names are
 from datasets import load_dataset # importing the data set
 
 ds = load_dataset("kunhanw/earning_call_transcript_dataset_with_volatility_analysis",
