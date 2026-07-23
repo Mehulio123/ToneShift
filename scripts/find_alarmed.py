@@ -27,10 +27,10 @@ for q in questions:
 scored.sort(key=lambda x: x[0], reverse=True)
 
 # Take top 150
-top_alarmed = [q for score, q in scored[:150]]
+top_alarmed = [q for score, q in scored[:30]]
 
 print(f"Found {len(scored)} questions with alarmed keywords")
-print(f"Saving top 150 candidates...")
+print(f"Saving top 30 candidates...")
 
 with open('alarmed_candidates.csv', 'w', newline='', encoding='utf-8') as f:
     writer = csv.DictWriter(f, fieldnames=['company', 'ticker', 'exchange', 'date', 'analyst_name', 'question', 'label'])

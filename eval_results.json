@@ -1,0 +1,1460 @@
+{
+  "base_accuracy": 0.2727272727272727,
+  "tuned_accuracy": 0.35537190082644626,
+  "base_preds": [
+    {
+      "true": "Cautious",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Explanation:\nThe analyst is asking about the future performance of a part of the business that has been flat, and is using the word \"kind of think about",
+      "question": "Thanks, Chris, that's helpful. One more for me, and then I'll turn it back over just looking at perf"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Hedging",
+      "raw": "Hedging\n\n### Reasoning:\nThe analyst is asking about the evolution of the relationship with big hyperscalers, indicating a level of uncertainty or hedging in the question.",
+      "question": "Yeah. Okay, perfect. And then the -- and can you talk a little bit about like obviously, there's a d"
+    },
+    {
+      "true": "Confident",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe question suggests a potential need for Spotify to consider sports audio content to boost advertiser demand, implying a cautious approach to the company",
+      "question": "Okay. Another question from Rich Greenfield on sports. We've seen Amazon and Netflix push into sport"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about the goal efficacy for a robust ACIP recommendation, indicating a level of caution or carefulness in their approach to",
+      "question": "Great. So can you talk about, I guess, what the goal efficacy that you're thinking about here for a "
+    },
+    {
+      "true": "Cautious",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about the potential for growth in the Middle East market, but does not specify a timeframe for when this growth might occur,",
+      "question": "Good morning, guys. I want to start on the Middle East. You guys highlighted a number of partnership"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking for \"color\" around the revenue line items, which implies that there may be some concerns or questions about the performance of these",
+      "question": "And then maybe talk about the much, much smaller revenue line items. Portfolio servicing and origina"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Explanation:\nThe analyst is asking for clarification on a statement made earlier, expressing some concern about the potential for margins to remain flat in 2",
+      "question": "I'll be quick. First, Shawn, I want to confirm some comments you made earlier. I thought I heard you"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about potential headwinds from a mix shift to self-service in the DTC business, suggesting a cautious tone as",
+      "question": "And then maybe in a similar context, but a different question, just thinking about this mix shift to"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst acknowledges the headwinds around volumes and costs, but is asking for an update on efforts to mitigate these issues, suggesting a",
+      "question": "Super helpful. And then I appreciate the headwinds around volumes on the cost side, but you've talke"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Explanation:\nThe analyst is asking about potential areas for content increases outside of the ET portfolio, but the company has not seen as much product reuse elsewhere.",
+      "question": "Very nice. Just broadly speaking, I just wanted to touch on ACG just really quickly. So, I think in "
+    },
+    {
+      "true": "Confident",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about the timeline for reimbursement, which implies a level of uncertainty or caution about the company's ability",
+      "question": "That's extremely helpful. On the reimbursement front, is that a fiscal '25 for you guys? And what ki"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Hedging",
+      "raw": "Hedging\n\n### Reasoning:\nThe analyst is asking about the fuel surcharge, indicating uncertainty about its current state, which suggests a hedging tone.",
+      "question": "What about on fuel surcharge? I mean, fuel prices bounce around, is that kind of better or worse or "
+    },
+    {
+      "true": "Hedging",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about the potential spread of the product through the entire network of Kaiser Permanente, suggesting a level of caution about the current",
+      "question": "Well, I didn't write it down, so that's on me. You said there were 25 prescribers have started writi"
+    },
+    {
+      "true": "Confident",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about the pricing of a product, which suggests they are seeking clarification or understanding, indicating a cautious tone.",
+      "question": "Okay. And is this priced on dealer size? How do you price this?"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about factors that are holding back the loan-to-deposit rate, indicating a cautious tone as they are in",
+      "question": "Great. Thank you very much for taking my question. One theme that I've noticed in a lot of your answ"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking for more information and details about the sales cycles and the model, indicating a cautious approach to understanding the business better.",
+      "question": "Got it. And maybe just to follow-up there. I guess, what are kind of sales cycles look like on these"
+    },
+    {
+      "true": "Confident",
+      "pred": "Hedging",
+      "raw": "Hedging\n\n### Reasoning:\nThe analyst is asking for permission to ask multiple questions, indicating a level of uncertainty or hedging in their approach.",
+      "question": "We've probably got time for one or two questions. Okay to take a few?"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking questions about the past performance of Deflecto, indicating a level of concern or curiosity about potential changes or declines in the",
+      "question": "Great. Great. I\u2019m good. I\u2019m good. Some questions also on Deflecto. In poking around the Internet yea"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about the relationship between the subscription revenue and unbilled receivables, indicating a level of caution or concern about the potential",
+      "question": "Understood. Thanks, Tom. And maybe just one follow-up, if I could. I know that you guys are obviousl"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about the tax impact in 2026, implying a concern about the potential impact on the company's financial",
+      "question": "Okay. And just specifically on that, so if we go to slide 19 with the tax impact, does that all fall"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about the \"pricing backdrop for new equipment\" and \"used\" equipment, indicating a concern about the current market conditions",
+      "question": "[Indiscernible]. I wanted to focus in on the construction market here first, if I may. How do you gu"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about the company's current reach and its potential to expand, suggesting a cautious tone as they are inquiring about",
+      "question": "And what would that bring you to in terms of -- I think earlier you said that right now you address "
+    },
+    {
+      "true": "Confident",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe questioner is asking for confirmation about the current capacity of the school, indicating a level of caution or uncertainty about the information they have received.",
+      "question": "The capacity of the school we have now, the K-8 or K-9, I believe you said there's 500 students ther"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about the health of the consumer and key markets, suggesting a concern about the consumer's financial situation and the potential impact on",
+      "question": "Great. Thanks for taking the question. I was hoping maybe you could just comment. I don't know if I "
+    },
+    {
+      "true": "Cautious",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Explanation:\nThe analyst is asking for a detailed explanation of the Argentina LNG development, indicating a level of uncertainty or caution about the situation.",
+      "question": "Great. Thanks. I appreciate you guys having me. I wanted to for my first question, I wanted to just "
+    },
+    {
+      "true": "Cautious",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about ongoing product adjustments and the recovery in growth for the core Momo business, indicating a cautious tone as they are",
+      "question": "[Foreign Language] So let me transmit myself. So thanks management for taking my question and congra"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about potential wage inflation in the future, indicating a level of concern or caution about the potential impact on the company's costs",
+      "question": "Look forward to concluding something on that soon. Maybe my final question for you Graham, I just ne"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about the breadth of the premium demand for recycled plastic, suggesting a concern about the potential limits of this market, especially",
+      "question": "Okay. Fair enough. I think that's most of them. We've got time for maybe one question from the audie"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Explanation:\nThe questioner is asking about a more competitive market for product sales, which implies a potential negative impact on margins, thus the cautious sentiment",
+      "question": "Thanks for that. Just like any thoughts on a more competitive market for product sales impacting mar"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking for \"color\" around insurance and insurance premiums, indicating a desire for more information and a potential concern about the topic.",
+      "question": "Yes. Hey, good morning, guys. And thanks for taking my questions here. Just two quick ones. First, a"
+    },
+    {
+      "true": "Confident",
+      "pred": "Confident",
+      "raw": "Confident\n\n### Reasoning:\nThe analyst is asking about a potential acceleration and \"hockey stick\" look for ReElement's revenue in 2025, which",
+      "question": "And last question then. For 2025, do you see ReElement starting to accelerate, maybe even have a hoc"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe questioner expresses caution by mentioning the potential impact of the incoming Trump administration, specifically the possibility of higher economic growth, tariffs,",
+      "question": "And then Matt mentioned that demand continues to track the replacement cycle. And with the incoming "
+    },
+    {
+      "true": "Hedging",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about the impact of public valuation markers on the bid-ask spread for bolt-on deals and the current thinking about",
+      "question": "Got it. Got it. We'll wait on that then. And maybe just to go back to capital allocation, but from a"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Hedging",
+      "raw": "Hedging\n\n### Reasoning:\nThe question starts with a congratulatory tone towards the new CEO, but it also includes a statement that thanks the outgoing CEO for providing",
+      "question": "Our next webcast question asks, congratulations to Rob on his appointment to CEO, and thank you to B"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Cautious",
+      "raw": "Hedging\n\n### Explanation:\nThe analyst is asking a hypothetical question about the relationship between Rockwell and Allient, indicating a cautious or hedging sentiment tone",
+      "question": "Over the longer term you would go along with it, but so like then we\u2019re going to just talk hypotheti"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Confident",
+      "raw": "Confident\n\n### Explanation:\nThe analyst is asking for \"more color\" and \"back-half expectations\" in the U.S. Cereal business, indicating a positive",
+      "question": "Great. And then, a follow-up on the U.S. Cereal business. So, you called it out in the prepared rema"
+    },
+    {
+      "true": "Confident",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about an inventory write-down, which can be a sign of financial difficulty or mismanagement, and is inquiring about",
+      "question": "Okay. That's great. Yes, looking forward to seeing that number progress. The other household item wa"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about the business model of SafePath OS, showing a cautious tone as they are seeking more information about the revenue streams and",
+      "question": "Got it. And lastly, if I could, SafePath OS sounds like it's a very exciting opportunity. I'm wonder"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking for more information about the factors contributing to ARPU pressure, indicating a cautious tone as they seek to understand the situation more",
+      "question": "That's helpful. And then just on the ARPU call out, obviously, you guys have pointed us to the fact "
+    },
+    {
+      "true": "Cautious",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about the progress of hiring and ramping up a new sales team for QBO online accounting, and is inquiring about",
+      "question": "Thanks for taking my question, and congratulations on a good start to the year. I want to dig into t"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about the company's ability to pass on incremental freight costs, suggesting a concern about potential cost increases and their impact",
+      "question": "Thank you. And then for my last question, can you talk about your pricing and your ability to pass o"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking for more information and visibility on Square's growth expectations, indicating a cautious tone as they seek to understand the \"building",
+      "question": "Hi. Thanks. I wanted to ask on the Square side, if you don't mind, really encouraged here to hear th"
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Explanation:\nThe analyst is questioning the company's growth projections for 2025, suggesting that they are lower than the expectations of analysts",
+      "question": "Got it. And then kind of my follow-up is on the other 2025 commentary that you gave, the kind of 5% "
+    },
+    {
+      "true": "Cautious",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about potential out-of-stocks and dislocations in demand, suggesting a concern about potential supply chain issues and the",
+      "question": "Okay, okay, good enough. And then I guess just coming back to the ERP conversation for a second, it "
+    },
+    {
+      "true": "Cautious",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about potential disruptions intra-quarter from the ERP implementation and is inquiring about incremental benefits in",
+      "question": "All right. I appreciate that color. And then just one question on the ERP. You touched on it briefly"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Explanation:\nThe analyst is asking for a \"simple sense\" of the cash flow from a deal, indicating a desire for clear and straightforward information, which suggests",
+      "question": "Perfect. And then just one last one. I know you referenced us to the 8K and I'm sure we'll get more "
+    },
+    {
+      "true": "Hedging",
+      "pred": "Hedging",
+      "raw": "Hedging\n\n### Explanation:\nThe analyst is asking a question that requires a comparison between two different types of locations, but they are not certain which one will be more beneficial in",
+      "question": "Oh, sorry. I wasn\u2019t necessarily wondering on the development side, but that\u2019s all helpful. I was mor"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking for more information about a potential opportunity, indicating a cautious sentiment tone as they are seeking to understand the implications of the data",
+      "question": "Hi. This is Jenna on for Yaron. Thanks for taking my question. You mentioned on the call that your I"
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Explanation:\nThe analyst is asking about the sustainability of the loss ratio, implying a level of uncertainty or caution about whether this level is a new normal",
+      "question": "The loss ratio excluding the weather, excluding the cast, was really striking, and particularly when"
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Explanation:\nThe analyst is asking about a potential change in the delivery cadence for vans in the fourth quarter, indicating a level of caution about the potential",
+      "question": "Okay. The second question, just -- and I apologize, I joined a little late right as you were saying "
+    },
+    {
+      "true": "Confident",
+      "pred": "Confident",
+      "raw": "Confident\n\n### Reasoning:\nThe analyst expresses confidence in the company's ability to turn a corner and return to growth in MAU, attributing this to product improvements and",
+      "question": "I think it's early days, but I do believe we turn a corner and are back to growth again on the MAU s"
+    },
+    {
+      "true": "Confident",
+      "pred": null,
+      "raw": "downturn. And we've seen that in the last couple of quarters. But we're seeing a recovery in the permanent placements business. And we're seeing a recovery in the temporary",
+      "question": "So the first question that we have is, at what price would you start buying back stock? We are appro"
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst expresses concern about the underperformance of the stock, the lack of acquisitions, and the volatile nature of food prices and costs",
+      "question": "Right. Okay. All right. Fair enough. And then second question, with respect to -- Mike, you had ment"
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about potential risks related to the TMS exposure, suggesting a cautious tone. They are considering the possibility of a loss situation",
+      "question": "That's helpful. And maybe one last one. But looking at the TMS exposure, as most of the exposures ar"
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about potential safety concerns related to the body mass loss in the SURMOUNT-1 trial, which suggests a cautious",
+      "question": "Congrats on the progress and thanks for taking our questions. Looking down the road for INHBE, how d"
+    },
+    {
+      "true": "Confident",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst acknowledges the positive achievement of meeting guidance ahead of schedule but also raises concerns about the growth rate of revenue exceeding profit, and the",
+      "question": "[Foreign Language] So, congratulations on achieving the guidance ahead of schedule. The market condi"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about specific areas of concern in the consumer portfolio, indicating a level of caution about the health of the portfolio.",
+      "question": "Maybe one more, just a question on credit, losses in consumer have stabilized and even come down in "
+    },
+    {
+      "true": "Confident",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about the progress made in breaking down silos, indicating that the process is ongoing and not yet complete, suggesting a cautious",
+      "question": "Very good. And then just as a follow-up, Robin, you talked about the new business wins in the quarte"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about the potential for NII (Net Interest Income) to normalize higher, but also mentions the risks related to",
+      "question": "No need to apologize, Jeremy. That was a really helpful perspective. Maybe just for my follow-up on "
+    },
+    {
+      "true": "Confident",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about the current environment and potential future environment, indicating a level of caution as they are seeking to understand the current state of the",
+      "question": "Thanks a lot. Good morning Jeremy. Jeremy, great to see the progress on investment banking fees, up "
+    },
+    {
+      "true": "Confident",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Explanation:\nThe analyst is asking about the trend of delinquency stabilization on the credit card side, indicating a level of concern or caution about the",
+      "question": "Great. Thank you for all that Jeremy. And just one on the consumer side. Just anything you're notici"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about the ERP rollout in Europe, indicating that it has already occurred in the Americas and Asia, but it is",
+      "question": "Good afternoon, and thanks for taking my questions. I may have missed this, but you mentioned the ER"
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about potential threats to the company's product, such as the increasing use of more effective GLP-1s and their",
+      "question": "Okay. That's very helpful. And just two final questions for me. One is kind of a nitpick. Eiger's pr"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about the future potential of the loyalty program, but acknowledges that it's still early days and more data is needed before",
+      "question": "Okay. And then, the final one for me. I know we're a little ways out, but we're starting to get over"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about a specific project (the smaller launcher) and inquiring about its timeline (end of this fiscal year),",
+      "question": "Okay. And then, unless I missed it, you didn't mention the smaller launcher and when you like \u2013 are "
+    },
+    {
+      "true": "Hedging",
+      "pred": "Hedging",
+      "raw": "Hedging\n\n### Reasoning:\nThe analyst is asking for clarification, indicating a need for more information or a desire to avoid making a definitive statement, which suggests a hed",
+      "question": "Thanks. Taking just a follow-up. I just wanted a point of clarification. Are you saying that 25% of "
+    },
+    {
+      "true": "Confident",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about the performance of gross margins in beer specifically and is seeking to understand how the Q1 gross margin compared to expectations.",
+      "question": "Hey. Thank you very much. I'm going to follow up on Peter's question there around gross margins in b"
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Explanation:\nThe analyst expresses concern about the company's marketing and advertising spend being below historical levels and the potential impact on the brands, suggesting a caut",
+      "question": "All right. Thank you. Good morning. I had a question on just marketing. Your outlook for marketing a"
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking a clarifying question, indicating a desire for more information, which suggests a cautious tone.",
+      "question": "Got it. That's helpful. Thank you. And then just a clarifying question on Marine. Obviously, Barlett"
+    },
+    {
+      "true": "Confident",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking for more information about the company's pricing and packaging strategies, suggesting a level of concern or caution about the current performance of",
+      "question": "Thank you. Helen, I think you made some remarks around just the pricing, packaging versus competitio"
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about pricing trends, which can be a sensitive topic, and is seeking information about the company's performance in the U.",
+      "question": "Apologies. Yeah, I was on mute. Forgive me, maybe I missed it, but anything on pricing within the U."
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about potential changes in cannabis policy if the conservatives take control of the government next year, indicating a level of concern or",
+      "question": "Thank you. That's very clear. Look, just shifting gear with the conservatives, I think up 20 points "
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Hedging",
+      "raw": "Hedging\n\n### Explanation:\nThe analyst is asking for clarification, indicating a level of uncertainty or caution in their question.",
+      "question": "Hi, good morning. So, did you say one question or one plus one? Sorry I missed the instructions."
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Confident",
+      "raw": "Confident\n\n### Reasoning:\nThe analyst expresses confidence in the company's plans, asking about the details of the non-income producing real estate they are planning to sell",
+      "question": "Good. Perfect. I'm sorry I missed the first part of this call. I was on another call. Has -- I've go"
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about future investment and the impact on digital goals, indicating a cautious tone as they are seeking clarification on the potential impact",
+      "question": "Thank you. Hey, guys, good morning. Thanks for taking my questions. Just kind of broadly here and I "
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking for clarification on a delayed order, which suggests a potential issue or concern with the company's business operations.",
+      "question": "Sorry if I missed this in my earlier comments. Just to have some clarity here. On that inkjet order "
+    },
+    {
+      "true": "Hedging",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is expressing concern about the recent depreciation of the Mexican peso and its potential impact on the company's profit marg",
+      "question": "Yes. Hello, everyone. You've been able to sustain pretty good profit margins or pretty stable profit"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about the potential use of tax losses from Cylance, indicating a level of caution about the company's current financial situation",
+      "question": "Then on Cylance, you mentioned that you guys are keeping the tax losses there. How much tax losses, "
+    },
+    {
+      "true": "Confident",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking for more information about the growth of targeted verticals and is specifically interested in knowing which ones are accelerating versus decelerating",
+      "question": "Okay. The reason I was asking is because there's a huge focus on kind of that tweaking of the guidan"
+    },
+    {
+      "true": "Confident",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about the weaker industrial environment and the quarter playing out as expected, suggesting a cautious tone.",
+      "question": "Hey, Paul, I was just wondering, I think when we spoke on the fourth quarter and you called it out t"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about the second half results and whether they are meeting expectations or not, and if not, whether there is expected momentum heading into",
+      "question": "Okay. And then just lastly, when we look at the guide for the revenue guide for the fourth quarter a"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about the sales gap between Olive Garden and the industry, suggesting a concern about the brand's performance despite high customer satisfaction",
+      "question": "Thanks, good morning, guys. Wanted to ask a question on Olive Garden. I know you have a very good co"
+    },
+    {
+      "true": "Confident",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about potential concerns in the future, indicating a cautious sentiment tone.",
+      "question": "Great, Rick. And building on your comments, given the shift in not only political environment, but a"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking for more details about the allowance, indicating a level of concern or caution about the topic. They are also seeking to understand",
+      "question": "Yes, just wanted to and just go through the allowance a little bit more detail. Hopefully just give "
+    },
+    {
+      "true": "Hedging",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking for more information about the company's performance in the auto and transport sectors, indicating a level of uncertainty or caution about the",
+      "question": "Hey, guys. Thanks so much. I'm not sure if Steve Borges is in the room. If not, I'll just put this o"
+    },
+    {
+      "true": "Confident",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about the growth of the company's categories, which the company has previously stated grows at a rate of 1% to",
+      "question": "Good morning. Thanks for the question. In past quarters, you've highlighted that your categories are"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking a nuanced question about a downward trend in average December quarter volumes for the salt industry over the last 10 years",
+      "question": "Okay, so when I said nine and a half for the full business, you're guiding toward about 10, correct?"
+    },
+    {
+      "true": "Confident",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about the company's plans for the other 50% of their cash, specifically mentioning debt paydown, share",
+      "question": "Hi, thanks for letting me ask a question. I want to talk about the cash return side of things, a gre"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Explanation:\nThe analyst is asking a question that seems straightforward, but they also express some uncertainty by asking if it's a \"dumb question.\" This",
+      "question": "So super helpful framework there, Tom, right? And I just want to make sure -- I'm sorry, it's probab"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about the potential sale of an asset, indicating a level of caution or uncertainty about the company's decision to consider selling it",
+      "question": "Super helpful. And then on the asset sale, I think that you went out of your way on the earnings cal"
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Cautious",
+      "raw": "Hedging\n\n### Reasoning:\nThe analyst is asking a clarifying question, indicating a need for more information, which suggests a cautious or hedging tone.",
+      "question": "So I'll talk a little bit louder. On that inkjet order, is that related to the legacy PI business or"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking a follow-up question to understand if the company's performance during promotional periods was better than expected or if it was",
+      "question": "Got it. And then I guess just to follow up, on the higher percentage of sales happening during promo"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about the key KPIs that the company looks at to gauge the success of their initiatives, indicating a level of caution as",
+      "question": "When you and the management team sort of look at your dashboard of KPIs that you're evaluating the s"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about the size of the China business and its future growth potential, indicating a level of concern or caution about the company's",
+      "question": "Super helpful. All right. Pivoting to Via. You talked on the last call about some China stimulus pot"
+    },
+    {
+      "true": "Confident",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about the importance of Connected TV to AppLovin, what it allows them to do that they couldn't do",
+      "question": "Great. I want to touch on Connected TV for a minute, and I'm curious about a couple of things on thi"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Explanation:\nThe analyst is questioning the company's strategy of being selective and surgical in partners, which is different from the conventional wisdom in the IT",
+      "question": "[indiscernible] that. But I think you talked about being very selective maybe surgical in partners. "
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe questioner is asking about potential weakness and changes in the pricing environment, indicating a level of caution about the current state of the market.",
+      "question": "Other questions from the audience? We have a minute half left. Maybe we could close with just any of"
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about the performance of stores that are two years old, indicating a concern about their performance relative to the rest of the chain,",
+      "question": "Thanks for that. And then following up on stores and new stores, you may have mentioned this in the "
+    },
+    {
+      "true": "Confident",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Explanation:\nThe analyst is acknowledging the positive performance of the company but also expresses concern about the negative comps and the competition from smaller specialty players",
+      "question": "Great. Thanks. And then shifting gears, the negative comps you guys have been running has gotten a l"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about the cadence of the first quarter into the second quarter, implying a concern about the performance in the first four weeks",
+      "question": "Okay. And then could you talk about the cadence of the first quarter, I guess into the second quarte"
+    },
+    {
+      "true": "Confident",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about the performance of the DIFM business and expresses concern about the sequential step down, suggesting a potential weaken",
+      "question": "Great. Good morning. Thanks very much for taking my question. I wanted to focus on the DIFM business"
+    },
+    {
+      "true": "Confident",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Explanation:\nThe analyst is asking about the performance of the top 8 national brands and the quarter-to-date trend, which suggests a concern about the",
+      "question": "Great. Just wanted to hear because -- sorry if I missed this. Did you talk about what was your perfo"
+    },
+    {
+      "true": "Confident",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about the timeline for loan demand to return and the bank's commercial expectations, indicating a level of uncertainty or caution about",
+      "question": "Maybe dig in on a couple of things as it pertains to loan growth. I guess the first question is, how"
+    },
+    {
+      "true": "Confident",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about the drivers of underperformance historically and what gives confidence in improving performance, indicating a cautious tone as they are",
+      "question": "So let's dig into some of these. When I think about the key initiatives you outlined, they're all ge"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Explanation:\nThe analyst acknowledges the bank's underperformance in the past and asks about the reasons investors should consider investing in Truist now, imp",
+      "question": "And we've talked a lot, in conclusion here, over the last few years that undertaking the merger was "
+    },
+    {
+      "true": "Confident",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst expresses disappointment about the process taking longer than expected, indicating a cautious sentiment towards the separation process.",
+      "question": "Great. Well, thank you. And thanks, guys, for being here. I think I was disappointed to hear, you ha"
+    },
+    {
+      "true": "Confident",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Explanation:\nThe analyst expresses concern about the NAND market, indicating a cautious sentiment tone.",
+      "question": "Okay, Great. So maybe if we could talk about some of the businesses, can you give us a sense of the "
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst expresses concern about the IRS expanding its program and potentially encroaching on the company's business, as indicated by the question",
+      "question": "Got it. So I apologize. We have 30 seconds left. So I want to just touch on the concern I hear from "
+    },
+    {
+      "true": "Confident",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about the improvement in consumption growth and is trying to understand the scope of this improvement, indicating a cautious tone as they are",
+      "question": "Hey guys, thanks for taking the question here. I just wanted to come back to the consumption growth "
+    },
+    {
+      "true": "Confident",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is expressing concern about the impact of increased putbacks on the partners in Canada and their ability to absorb those losses.",
+      "question": "Okay, and then maybe if I could squeeze one more in, you touched about increased putbacks to your pa"
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Explanation:\nThe analyst is asking about potential increased tariffs under the new administration, indicating a level of concern about the potential impact on the company's operations",
+      "question": "Yes, I would agree with that. I think as I look at the model, the potential for really significant o"
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking for more information about the lower guide for CVI, indicating a level of concern or caution about the company's performance.",
+      "question": "Okay. That's helpful. And maybe if I could follow up on the CVI guide. So the last two years, you've"
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Hedging",
+      "raw": "Hedging\n\n### Reasoning:\nThe questioner is asking about the current status of the base business and the actions of the business heads, indicating a level of uncertainty or caution about",
+      "question": "And so you have -- I mean you yourself are the Chief Operating Officer now, I think a number of the "
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking if the guidance assumes full implementation of the containerboard price increase, indicating a level of uncertainty or caution about whether the increase will",
+      "question": "Hi guys. Thanks for taking my questions. This is [indiscernible] on for Mike Roxland today. I guess "
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe questioner expresses concern about potential seat compression in the contact center industry, suggesting a potential negative impact on the company's business if their",
+      "question": "Maybe we'll just -- we'll press on that a little bit because it would seem that if a customer is goi"
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about the magnitude of closures from here, indicating a level of concern or caution about the potential impact of these closures on",
+      "question": "Thanks. Sorry if I missed this. You mentioned 25% of the fleet comes due by '26. Do you have a sense"
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Explanation:\nThe analyst expresses uncertainty about the willingness of hyperscalers to pay higher prices for power, and mentions potential risks and compression of",
+      "question": "Okay, thank you. Shifting to the other topic on AI and data centers, these hyperscalers are very hun"
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Explanation:\nThe analyst is questioning the bank's credit guidance, which suggests a higher loss rate at the start of the year, and is comparing it with",
+      "question": "Just first one on the credit guidance, that's been reiterated. And if I'm understanding you correctl"
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst expresses concern about the commercial end markets in the U.S. heading into 2025, indicating a cautious sentiment",
+      "question": "Helpful. I want to go back to the conversation we had earlier around some of the acquisitions, and p"
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking for specific details about the impact of a home-builder deal falling into 3Q, indicating a level of concern or caution",
+      "question": "Hi, guys. Thanks for getting me in. And I apologize if I missed this, but -- you had mentioned that "
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Cautious",
+      "raw": "Cautious\n\n### Reasoning:\nThe analyst is asking about lead times, open-to-buy for holiday, and inventory levels at the end of the year, which suggests",
+      "question": "Hi. Good evening. This is Dan on for Simeon. Thanks for taking our question. Curious what your gener"
+    }
+  ],
+  "tuned_preds": [
+    {
+      "true": "Cautious",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "Thanks, Chris, that's helpful. One more for me, and then I'll turn it back over just looking at perf"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Confident",
+      "raw": "Confident \u2014",
+      "question": "Yeah. Okay, perfect. And then the -- and can you talk a little bit about like obviously, there's a d"
+    },
+    {
+      "true": "Confident",
+      "pred": "Hedging",
+      "raw": "Hedging \u2014",
+      "question": "Okay. Another question from Rich Greenfield on sports. We've seen Amazon and Netflix push into sport"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Confident",
+      "raw": "Confident \u2014",
+      "question": "Great. So can you talk about, I guess, what the goal efficacy that you're thinking about here for a "
+    },
+    {
+      "true": "Cautious",
+      "pred": "Confident",
+      "raw": "Confident \u2014",
+      "question": "Good morning, guys. I want to start on the Middle East. You guys highlighted a number of partnership"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Hedging",
+      "raw": "Hedging \u2014",
+      "question": "And then maybe talk about the much, much smaller revenue line items. Portfolio servicing and origina"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "I'll be quick. First, Shawn, I want to confirm some comments you made earlier. I thought I heard you"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "And then maybe in a similar context, but a different question, just thinking about this mix shift to"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "Super helpful. And then I appreciate the headwinds around volumes on the cost side, but you've talke"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Confident",
+      "raw": "Confident \u2014",
+      "question": "Very nice. Just broadly speaking, I just wanted to touch on ACG just really quickly. So, I think in "
+    },
+    {
+      "true": "Confident",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "That's extremely helpful. On the reimbursement front, is that a fiscal '25 for you guys? And what ki"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Hedging",
+      "raw": "Hedging \u2014",
+      "question": "What about on fuel surcharge? I mean, fuel prices bounce around, is that kind of better or worse or "
+    },
+    {
+      "true": "Hedging",
+      "pred": "Confident",
+      "raw": "Confident \u2014",
+      "question": "Well, I didn't write it down, so that's on me. You said there were 25 prescribers have started writi"
+    },
+    {
+      "true": "Confident",
+      "pred": "Hedging",
+      "raw": "Hedging \u2014",
+      "question": "Okay. And is this priced on dealer size? How do you price this?"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "Great. Thank you very much for taking my question. One theme that I've noticed in a lot of your answ"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "Got it. And maybe just to follow-up there. I guess, what are kind of sales cycles look like on these"
+    },
+    {
+      "true": "Confident",
+      "pred": "Confident",
+      "raw": "Confident \u2014",
+      "question": "We've probably got time for one or two questions. Okay to take a few?"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "Great. Great. I\u2019m good. I\u2019m good. Some questions also on Deflecto. In poking around the Internet yea"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Hedging",
+      "raw": "Hedging \u2014",
+      "question": "Understood. Thanks, Tom. And maybe just one follow-up, if I could. I know that you guys are obviousl"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Hedging",
+      "raw": "Hedging \u2014",
+      "question": "Okay. And just specifically on that, so if we go to slide 19 with the tax impact, does that all fall"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Confident",
+      "raw": "Confident \u2014",
+      "question": "[Indiscernible]. I wanted to focus in on the construction market here first, if I may. How do you gu"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "And what would that bring you to in terms of -- I think earlier you said that right now you address "
+    },
+    {
+      "true": "Confident",
+      "pred": "Confident",
+      "raw": "Confident \u2014",
+      "question": "The capacity of the school we have now, the K-8 or K-9, I believe you said there's 500 students ther"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "Great. Thanks for taking the question. I was hoping maybe you could just comment. I don't know if I "
+    },
+    {
+      "true": "Cautious",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "Great. Thanks. I appreciate you guys having me. I wanted to for my first question, I wanted to just "
+    },
+    {
+      "true": "Cautious",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "[Foreign Language] So let me transmit myself. So thanks management for taking my question and congra"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "Look forward to concluding something on that soon. Maybe my final question for you Graham, I just ne"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Confident",
+      "raw": "Confident \u2014",
+      "question": "Okay. Fair enough. I think that's most of them. We've got time for maybe one question from the audie"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "Thanks for that. Just like any thoughts on a more competitive market for product sales impacting mar"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "Yes. Hey, good morning, guys. And thanks for taking my questions here. Just two quick ones. First, a"
+    },
+    {
+      "true": "Confident",
+      "pred": "Confident",
+      "raw": "Confident \u2014",
+      "question": "And last question then. For 2025, do you see ReElement starting to accelerate, maybe even have a hoc"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "And then Matt mentioned that demand continues to track the replacement cycle. And with the incoming "
+    },
+    {
+      "true": "Hedging",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "Got it. Got it. We'll wait on that then. And maybe just to go back to capital allocation, but from a"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "Our next webcast question asks, congratulations to Rob on his appointment to CEO, and thank you to B"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Confident",
+      "raw": "Confident \u2014",
+      "question": "Over the longer term you would go along with it, but so like then we\u2019re going to just talk hypotheti"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Confident",
+      "raw": "Confident \u2014",
+      "question": "Great. And then, a follow-up on the U.S. Cereal business. So, you called it out in the prepared rema"
+    },
+    {
+      "true": "Confident",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "Okay. That's great. Yes, looking forward to seeing that number progress. The other household item wa"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Confident",
+      "raw": "Confident \u2014",
+      "question": "Got it. And lastly, if I could, SafePath OS sounds like it's a very exciting opportunity. I'm wonder"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Alarmed",
+      "raw": "Alarmed \u2014",
+      "question": "That's helpful. And then just on the ARPU call out, obviously, you guys have pointed us to the fact "
+    },
+    {
+      "true": "Cautious",
+      "pred": "Confident",
+      "raw": "Confident \u2014",
+      "question": "Thanks for taking my question, and congratulations on a good start to the year. I want to dig into t"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "Thank you. And then for my last question, can you talk about your pricing and your ability to pass o"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Confident",
+      "raw": "Confident \u2014",
+      "question": "Hi. Thanks. I wanted to ask on the Square side, if you don't mind, really encouraged here to hear th"
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "Got it. And then kind of my follow-up is on the other 2025 commentary that you gave, the kind of 5% "
+    },
+    {
+      "true": "Cautious",
+      "pred": "Alarmed",
+      "raw": "Alarmed \u2014",
+      "question": "Okay, okay, good enough. And then I guess just coming back to the ERP conversation for a second, it "
+    },
+    {
+      "true": "Cautious",
+      "pred": "Confident",
+      "raw": "Confident \u2014",
+      "question": "All right. I appreciate that color. And then just one question on the ERP. You touched on it briefly"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Hedging",
+      "raw": "Hedging \u2014",
+      "question": "Perfect. And then just one last one. I know you referenced us to the 8K and I'm sure we'll get more "
+    },
+    {
+      "true": "Hedging",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "Oh, sorry. I wasn\u2019t necessarily wondering on the development side, but that\u2019s all helpful. I was mor"
+    },
+    {
+      "true": "Cautious",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "Hi. This is Jenna on for Yaron. Thanks for taking my question. You mentioned on the call that your I"
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "The loss ratio excluding the weather, excluding the cast, was really striking, and particularly when"
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "Okay. The second question, just -- and I apologize, I joined a little late right as you were saying "
+    },
+    {
+      "true": "Confident",
+      "pred": "Confident",
+      "raw": "Confident \u2014",
+      "question": "I think it's early days, but I do believe we turn a corner and are back to growth again on the MAU s"
+    },
+    {
+      "true": "Confident",
+      "pred": null,
+      "raw": "downturn. And we've been able to navigate that pretty well. We've been able to keep our perm business going. We've been able to keep our temp business going. We",
+      "question": "So the first question that we have is, at what price would you start buying back stock? We are appro"
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Alarmed",
+      "raw": "Alarmed \u2014",
+      "question": "Right. Okay. All right. Fair enough. And then second question, with respect to -- Mike, you had ment"
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Alarmed",
+      "raw": "Alarmed \u2014",
+      "question": "That's helpful. And maybe one last one. But looking at the TMS exposure, as most of the exposures ar"
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Alarmed",
+      "raw": "Alarmed \u2014",
+      "question": "Congrats on the progress and thanks for taking our questions. Looking down the road for INHBE, how d"
+    },
+    {
+      "true": "Confident",
+      "pred": "Confident",
+      "raw": "Confident \u2014",
+      "question": "[Foreign Language] So, congratulations on achieving the guidance ahead of schedule. The market condi"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Alarmed",
+      "raw": "Alarmed \u2014",
+      "question": "Maybe one more, just a question on credit, losses in consumer have stabilized and even come down in "
+    },
+    {
+      "true": "Confident",
+      "pred": "Confident",
+      "raw": "Confident \u2014",
+      "question": "Very good. And then just as a follow-up, Robin, you talked about the new business wins in the quarte"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "No need to apologize, Jeremy. That was a really helpful perspective. Maybe just for my follow-up on "
+    },
+    {
+      "true": "Confident",
+      "pred": "Confident",
+      "raw": "Confident \u2014",
+      "question": "Thanks a lot. Good morning Jeremy. Jeremy, great to see the progress on investment banking fees, up "
+    },
+    {
+      "true": "Confident",
+      "pred": "Hedging",
+      "raw": "Hedging \u2014",
+      "question": "Great. Thank you for all that Jeremy. And just one on the consumer side. Just anything you're notici"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Confident",
+      "raw": "Confident \u2014",
+      "question": "Good afternoon, and thanks for taking my questions. I may have missed this, but you mentioned the ER"
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "Okay. That's very helpful. And just two final questions for me. One is kind of a nitpick. Eiger's pr"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Confident",
+      "raw": "Confident \u2014",
+      "question": "Okay. And then, the final one for me. I know we're a little ways out, but we're starting to get over"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "Okay. And then, unless I missed it, you didn't mention the smaller launcher and when you like \u2013 are "
+    },
+    {
+      "true": "Hedging",
+      "pred": "Alarmed",
+      "raw": "Alarmed \u2014",
+      "question": "Thanks. Taking just a follow-up. I just wanted a point of clarification. Are you saying that 25% of "
+    },
+    {
+      "true": "Confident",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "Hey. Thank you very much. I'm going to follow up on Peter's question there around gross margins in b"
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "All right. Thank you. Good morning. I had a question on just marketing. Your outlook for marketing a"
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Confident",
+      "raw": "Confident \u2014",
+      "question": "Got it. That's helpful. Thank you. And then just a clarifying question on Marine. Obviously, Barlett"
+    },
+    {
+      "true": "Confident",
+      "pred": "Confident",
+      "raw": "Confident \u2014",
+      "question": "Thank you. Helen, I think you made some remarks around just the pricing, packaging versus competitio"
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Hedging",
+      "raw": "Hedging \u2014",
+      "question": "Apologies. Yeah, I was on mute. Forgive me, maybe I missed it, but anything on pricing within the U."
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Alarmed",
+      "raw": "Alarmed \u2014",
+      "question": "Thank you. That's very clear. Look, just shifting gear with the conservatives, I think up 20 points "
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Hedging",
+      "raw": "Hedging \u2014",
+      "question": "Hi, good morning. So, did you say one question or one plus one? Sorry I missed the instructions."
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "Good. Perfect. I'm sorry I missed the first part of this call. I was on another call. Has -- I've go"
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "Thank you. Hey, guys, good morning. Thanks for taking my questions. Just kind of broadly here and I "
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Alarmed",
+      "raw": "Alarmed \u2014",
+      "question": "Sorry if I missed this in my earlier comments. Just to have some clarity here. On that inkjet order "
+    },
+    {
+      "true": "Hedging",
+      "pred": "Alarmed",
+      "raw": "Alarmed \u2014",
+      "question": "Yes. Hello, everyone. You've been able to sustain pretty good profit margins or pretty stable profit"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Hedging",
+      "raw": "Hedging \u2014",
+      "question": "Then on Cylance, you mentioned that you guys are keeping the tax losses there. How much tax losses, "
+    },
+    {
+      "true": "Confident",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "Okay. The reason I was asking is because there's a huge focus on kind of that tweaking of the guidan"
+    },
+    {
+      "true": "Confident",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "Hey, Paul, I was just wondering, I think when we spoke on the fourth quarter and you called it out t"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "Okay. And then just lastly, when we look at the guide for the revenue guide for the fourth quarter a"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "Thanks, good morning, guys. Wanted to ask a question on Olive Garden. I know you have a very good co"
+    },
+    {
+      "true": "Confident",
+      "pred": "Confident",
+      "raw": "Confident \u2014",
+      "question": "Great, Rick. And building on your comments, given the shift in not only political environment, but a"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Hedging",
+      "raw": "Hedging \u2014",
+      "question": "Yes, just wanted to and just go through the allowance a little bit more detail. Hopefully just give "
+    },
+    {
+      "true": "Hedging",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "Hey, guys. Thanks so much. I'm not sure if Steve Borges is in the room. If not, I'll just put this o"
+    },
+    {
+      "true": "Confident",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "Good morning. Thanks for the question. In past quarters, you've highlighted that your categories are"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Alarmed",
+      "raw": "Alarmed \u2014",
+      "question": "Okay, so when I said nine and a half for the full business, you're guiding toward about 10, correct?"
+    },
+    {
+      "true": "Confident",
+      "pred": "Confident",
+      "raw": "Confident \u2014",
+      "question": "Hi, thanks for letting me ask a question. I want to talk about the cash return side of things, a gre"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Hedging",
+      "raw": "Hedging \u2014",
+      "question": "So super helpful framework there, Tom, right? And I just want to make sure -- I'm sorry, it's probab"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Hedging",
+      "raw": "Hedging \u2014",
+      "question": "Super helpful. And then on the asset sale, I think that you went out of your way on the earnings cal"
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "So I'll talk a little bit louder. On that inkjet order, is that related to the legacy PI business or"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Hedging",
+      "raw": "Hedging \u2014",
+      "question": "Got it. And then I guess just to follow up, on the higher percentage of sales happening during promo"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Confident",
+      "raw": "Confident \u2014",
+      "question": "When you and the management team sort of look at your dashboard of KPIs that you're evaluating the s"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Confident",
+      "raw": "Confident \u2014",
+      "question": "Super helpful. All right. Pivoting to Via. You talked on the last call about some China stimulus pot"
+    },
+    {
+      "true": "Confident",
+      "pred": "Confident",
+      "raw": "Confident \u2014",
+      "question": "Great. I want to touch on Connected TV for a minute, and I'm curious about a couple of things on thi"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "[indiscernible] that. But I think you talked about being very selective maybe surgical in partners. "
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "Other questions from the audience? We have a minute half left. Maybe we could close with just any of"
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Confident",
+      "raw": "Confident \u2014",
+      "question": "Thanks for that. And then following up on stores and new stores, you may have mentioned this in the "
+    },
+    {
+      "true": "Confident",
+      "pred": "Confident",
+      "raw": "Confident \u2014",
+      "question": "Great. Thanks. And then shifting gears, the negative comps you guys have been running has gotten a l"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "Okay. And then could you talk about the cadence of the first quarter, I guess into the second quarte"
+    },
+    {
+      "true": "Confident",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "Great. Good morning. Thanks very much for taking my question. I wanted to focus on the DIFM business"
+    },
+    {
+      "true": "Confident",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "Great. Just wanted to hear because -- sorry if I missed this. Did you talk about what was your perfo"
+    },
+    {
+      "true": "Confident",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "Maybe dig in on a couple of things as it pertains to loan growth. I guess the first question is, how"
+    },
+    {
+      "true": "Confident",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "So let's dig into some of these. When I think about the key initiatives you outlined, they're all ge"
+    },
+    {
+      "true": "Hedging",
+      "pred": "Confident",
+      "raw": "Confident \u2014",
+      "question": "And we've talked a lot, in conclusion here, over the last few years that undertaking the merger was "
+    },
+    {
+      "true": "Confident",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "Great. Well, thank you. And thanks, guys, for being here. I think I was disappointed to hear, you ha"
+    },
+    {
+      "true": "Confident",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "Okay, Great. So maybe if we could talk about some of the businesses, can you give us a sense of the "
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Alarmed",
+      "raw": "Alarmed \u2014",
+      "question": "Got it. So I apologize. We have 30 seconds left. So I want to just touch on the concern I hear from "
+    },
+    {
+      "true": "Confident",
+      "pred": "Confident",
+      "raw": "Confident \u2014",
+      "question": "Hey guys, thanks for taking the question here. I just wanted to come back to the consumption growth "
+    },
+    {
+      "true": "Confident",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "Okay, and then maybe if I could squeeze one more in, you touched about increased putbacks to your pa"
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Alarmed",
+      "raw": "Alarmed \u2014",
+      "question": "Yes, I would agree with that. I think as I look at the model, the potential for really significant o"
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "Okay. That's helpful. And maybe if I could follow up on the CVI guide. So the last two years, you've"
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "And so you have -- I mean you yourself are the Chief Operating Officer now, I think a number of the "
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Hedging",
+      "raw": "Hedging \u2014",
+      "question": "Hi guys. Thanks for taking my questions. This is [indiscernible] on for Mike Roxland today. I guess "
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Alarmed",
+      "raw": "Alarmed \u2014",
+      "question": "Maybe we'll just -- we'll press on that a little bit because it would seem that if a customer is goi"
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "Thanks. Sorry if I missed this. You mentioned 25% of the fleet comes due by '26. Do you have a sense"
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Alarmed",
+      "raw": "Alarmed \u2014",
+      "question": "Okay, thank you. Shifting to the other topic on AI and data centers, these hyperscalers are very hun"
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Alarmed",
+      "raw": "Alarmed \u2014",
+      "question": "Just first one on the credit guidance, that's been reiterated. And if I'm understanding you correctl"
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "Helpful. I want to go back to the conversation we had earlier around some of the acquisitions, and p"
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Hedging",
+      "raw": "Hedging \u2014",
+      "question": "Hi, guys. Thanks for getting me in. And I apologize if I missed this, but -- you had mentioned that "
+    },
+    {
+      "true": "Alarmed",
+      "pred": "Cautious",
+      "raw": "Cautious \u2014",
+      "question": "Hi. Good evening. This is Dan on for Simeon. Thanks for taking our question. Curious what your gener"
+    }
+  ]
+}
