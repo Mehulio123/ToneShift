@@ -50,6 +50,9 @@ the same window, does tone correlate with the subsequent move? — and tested. I
 | Negative share | -0.025 | -0.031 | -0.042 | -0.037 |
 | Confident share | +0.063 | +0.075 | — | — |
 
+![Alarm share vs 5-day forward return](charts/alarm_vs_return.png)
+
+![Mean 5-day return by alarm-share quintile](charts/quintile_returns.png)
 Re-tested across alternative outcome variables and sample thresholds (5+ vs 15+
 questions per call); all correlations stayed within ±0.08.
 
@@ -67,6 +70,7 @@ Full methodology, per-class metrics, confusion matrices, and limitations:
 | 3-class | 0.266 | 0.472 | +77% |
 | 2-class | 0.405 | 0.605 | +49% |
 
+![Per-class F1 — base vs fine-tuned](charts/per_class_f1.png)
 Macro-F1 rather than accuracy, because the base model collapses to majority-class
 prediction — it labeled nearly every question "Cautious," scoring 27.3% accuracy on a
 test set that is 26% Cautious. Accuracy rewards that; macro-F1 exposes it.
