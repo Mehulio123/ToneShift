@@ -75,10 +75,58 @@ python scripts/eval.py               # RunPod, ~10 min — writes eval_results.j
 python scripts/macro_f1.py           # local
 python scripts/collapse_eval.py      # local — granularity comparison
 ```
+## Cross-sectional analysis: does analyst tone predict returns?
+
+The original longitudinal design — tracking sentiment drift across quarters — was
+not viable: the dataset spans 2024-07 to 2024-12, and only one ticker (JPM) appears
+in three or more distinct months. The hypothesis was reformulated as a
+cross-sectional test.
+
+**Question:** across earnings calls in the same window, does the share of
+alarmed-tone analyst questions correlate with the stock's subsequent move?
+
+**Method:** all 22,404 questions from calls with 5+ questions were classified by the
+fine-tuned model. Per call, alarm-share and negative-share (Alarmed + Hedging) were
+computed and correlated against forward returns from the dataset's volatility
+metadata. Returns winsorized at the 1st/99th percentile. n = 1,527 calls.
+
+### Result: no relationship
+
+| Predictor | 5-day return | 10-day return | \|return\| | Volatility |
+|---|---|---|---|---|
+| Alarm share | -0.012 | -0.032 | -0.064 | -0.078 |
+| Negative share | -0.025 | -0.031 | -0.042 | -0.037 |
+| Confident share | +0.063 | +0.075 | — | — |
+
+Mean 5-day return by alarm-share quintile shows no monotonic pattern
+(Q1 +0.86%, Q2 -4.30%, Q3 -0.69%, Q4 -1.86%, Q5 -2.19%).
+
+**Robustness.** Re-tested across alternative outcome variables (absolute return,
+realized volatility) and sample thresholds (5+ vs 15+ questions per call). All
+correlations remained within ±0.08. The null is not an artifact of a single
+specification.
+
+### Interpretation
+
+Analyst question tone, as measured here, does not predict short-horizon price
+movement. This is consistent with weak-form market efficiency: earnings call
+transcripts are public and widely read, so a simple tone signal would likely be
+arbitraged away.
+
+Limitations that bound this conclusion: the sample covers a single earnings season
+rather than a full cycle; the classifier achieves 0.62 precision on Alarmed, so
+alarm-share is measured with error; and with an 8% corpus-wide alarm rate and a
+median of 12 questions per call, over 40% of calls contain zero alarmed questions,
+limiting the resolution of the alarm-share variable.
+
+**What this does not test:** longer horizons (quarters rather than days), drift
+within a single company over time, or tone relative to that analyst's own baseline.
+The dataset does not support these.
 
 ## Cost
 
-Total GPU spend: approximately $15.8 on RunPod (A40, $0.40/hr). Training run: ~5 minutes. Full evaluation: ~10 minutes.
+Total GPU spend: approximately $18.8 on RunPod (A40, $0.40/hr). Training run: ~5 minutes. Full evaluation: ~10 minutes.
 
 ---
 *Last updated: 23rd July 2026*
+
